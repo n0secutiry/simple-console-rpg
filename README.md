@@ -13,7 +13,7 @@ A simple, text-based RPG battle game written in Rust. This project was created a
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/n0secutiry/simple-console-rpg](https://github.com/n0secutiry/simple-console-rpg)
+    git clone https://github.com/n0secutiry/simple-console-rpg
     cd simple-console-rpg
     ```
 
@@ -28,7 +28,6 @@ A simple, text-based RPG battle game written in Rust. This project was created a
 The game starts by asking for your name and then offers a choice of heroes. After selecting a hero, you will face a randomly generated monster. The first attacker is chosen randomly, and the battle continues until one character's health drops to zero.
 
 ![Gameplay Screenshot](./image.jpg) 
-*(This is where your screenshot will appear)*
 
 ## 🛠️ Technologies Used
 
